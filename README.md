@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Dummy-Resume-Project
-=======
 # Bootstrap Assignment 2
 
 <br/>
