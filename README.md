@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-    <img height="400" width="800" src="https://github.com/murthyrsugnana/bootstrap-assignment-2/tree/main/Image/Front Page.png">
+    <img height="400" width="800" src="Image/Front Page.png">
 </p>
 
 ## ⭐ Introduction
